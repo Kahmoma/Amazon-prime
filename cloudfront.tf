@@ -1,0 +1,1 @@
+# cloudfront to cache the movie content so that it should be highly available
